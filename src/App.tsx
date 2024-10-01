@@ -13,7 +13,6 @@ import {
   Checkout,
   Orders,
 } from './pages';
-import { Check } from 'lucide-react';
 
 const router = createBrowserRouter([
   {
